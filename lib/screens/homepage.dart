@@ -39,7 +39,7 @@ class _HomepageState extends State<Homepage> {
         automaticallyImplyLeading: false,
         surfaceTintColor: AppColors.secondary,
         title: Text(
-          "Car Lists",
+          "Car List",
           style: TextStyle(fontWeight: FontWeight.bold,color: AppColors.primarytextcolor),
         ),
         backgroundColor: AppColors.secondary,
